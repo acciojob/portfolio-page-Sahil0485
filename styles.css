@@ -1,2 +1,16 @@
+body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      line-height: 1.6;
+    }
 
+    img {
+      width: 150px;
+      height: auto;
+      border-radius: 50%;
+    }
+
+    #skills, #projects {
+      margin-top: 20px;
+    }
 /* Your CSS Code here. */
